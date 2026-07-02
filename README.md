@@ -3,4 +3,5 @@
 - Se realizó un Benchmark para comparar los tiempos de entrenamiento en CPU vs. GPU.
 - Entorno utilizado: Google Collab - GPU T4.
 
-<img width="960" height="540" alt="DETECCION MADURACION FRUTAS - Benchmark CPU vs GPU" src="https://github.com/user-attachments/assets/293820f3-f79c-4654-9335-a6d0639a92b9" />
+<img width="960" height="540" alt="DETECCION MADURACION FRUTAS - Benchmark CPU vs GPU" src="https://github.com/user-attachments/assets/1174579c-e340-4577-9ad2-1eb057459e05" />
+
